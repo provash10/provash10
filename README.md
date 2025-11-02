@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🔭 Currently working on **Laravel & MERN Stack Projects**  
 - 🌱 Learning **React, Node.js, MongoDB**  
-- 💬 Ask me about **PHP (OOP), Laravel, JavaScript, Tailwind, Bootstrap**  
+- 💬 Ask me about **PHP (OOP), Laravel, JavaScript, React, Tailwind, Bootstrap**  
 - ⚡ Fun fact: I love coding and exploring new tech!  
 
 ---
@@ -40,7 +40,7 @@
 ---
 
 ## 📚 Currently Learning
-- 🔥 MERN Stack (MongoDB, Express.js, React, Node.js)  
+- 🔥 MERN Stack (MongoDB, Express.js, Node.js)  
 - ⚡ Advanced Laravel & PHP OOP  
 - 🧩 API Development & Clean Architecture  
 
