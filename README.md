@@ -5,10 +5,10 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **Laravel & MERN Stack Projects**  
-- 🌱 Learning **React, Node.js, MongoDB**  
-- 💬 Ask me about **PHP (OOP), Laravel, JavaScript, React, Tailwind, Bootstrap**  
-- ⚡ Fun fact: I love coding and exploring new tech!  
+- 🔭 Currently working on **Laravel, MERN Stack & Next.js Projects**
+- 🌱 Currently learning **Next.js (App Router, SSR, SSG)**
+- 💬 Ask me about **PHP (OOP), Laravel, JavaScript, React, Next.js, Tailwind, Bootstrap**
+- ⚡ Fun fact: I love building real-world projects and exploring new tech!
 
 ---
 
@@ -21,6 +21,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### ⚙️ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -39,21 +40,28 @@
 
 ---
 
-## 📚 Currently Learning
-- 🔥 MERN Stack (MongoDB, Express.js, Node.js)  
-- ⚡ Advanced Laravel & PHP OOP  
-- 🧩 API Development & Clean Architecture  
+## 📚 Currently Focused On
+- ⚡ **Next.js (App Router, Server Components)**
+- 🔥 **Full MERN Stack Projects**
+- 🧩 **API Development & Clean Architecture**
+
+---
+
+## 🚀 Featured Project
+### 🌐 MERN Stack Project
+🔗 **Live Demo:** https://genuine-boba-45e00f.netlify.app  
+🛠️ Tech Used: React, Node.js, Express.js, MongoDB, Tailwind CSS
 
 ---
 
 ## 📊 GitHub Stats
-![Provash's GitHub stats](https://github-readme-stats.vercel.app/api?username=provash10&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=provash10&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=provash10&theme=radical)  
+![Provash's GitHub stats](https://github-readme-stats.vercel.app/api?username=provash10&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=provash10&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=provash10&theme=radical)
 
 ---
 
 ## ☕ Support Me
-If you like my work, you can support me here:  
+If you like my work, you can support me here:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/provash10)
