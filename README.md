@@ -50,6 +50,7 @@
 ## 🚀 Featured Project
 ### 🌐 MERN Stack Project
 🔗 **Live Demo:** https://genuine-boba-45e00f.netlify.app  
+🔗 **Live Demo:** https://vermillion-shortbread-79146e.netlify.app
 🛠️ Tech Used: React, Node.js, Express.js, MongoDB, Tailwind CSS
 
 ---
