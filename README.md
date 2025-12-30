@@ -1,18 +1,35 @@
-# Hi there 👋, I'm Provash
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20I'm%20Provash!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-![Profile views](https://komarev.com/ghpvc/?username=provash10&label=Profile%20views&color=0e75b6&style=flat)
+<h3 align="center">Frontend & Full Stack Web Developer</h3>
+
+<p align="center">
+📍 Bangladesh &nbsp; | &nbsp;
+📧 provash.dev@email.com
+</p>
+
+<p align="center">
+<a href="https://github.com/provash10">GitHub</a> •
+<a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a>
+</p>
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently working on **Laravel, MERN Stack & Next.js Projects**
-- 🌱 Currently learning **Next.js (App Router, SSR, SSG)**
-- 💬 Ask me about **PHP (OOP), Laravel, JavaScript, React, Next.js, Tailwind, Bootstrap**
-- ⚡ Fun fact: I love building real-world projects and exploring new tech!
+## 👋 About Me
+I am Provash, a passionate Frontend & Full Stack Web Developer with experience in modern web technologies.  
+I love building real-world projects, writing clean code, and continuously learning new tools and frameworks.  
+My goal is to create fast, responsive, and user-friendly web applications.
 
 ---
 
-## 🛠️ Skills I Use
+## 🚀 Current Activities
+- 🔭 Exploring **Next.js (App Router, SSR, SSG)**
+- 🛠️ Working on **MERN & Laravel-based projects**
+- 🌱 Improving **API Development & Clean Architecture**
+
+---
+
+## 🛠️ Skills
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,32 +53,29 @@
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📚 Currently Focused On
-- ⚡ **Next.js (App Router, Server Components)**
-- 🔥 **Full MERN Stack Projects**
-- 🧩 **API Development & Clean Architecture**
+## 🌟 Featured Project
+### MERN Stack Web Application
+🔗 **Live Demo:** https://vermillion-shortbread-79146e.netlify.app  
+🛠️ **Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS  
+
+A full-stack web application built with the MERN stack, focusing on performance, clean UI, and scalable architecture.
 
 ---
 
-## 🚀 Featured Project
-### 🌐 MERN Stack Project 
-🔗 **Live Demo:** https://vermillion-shortbread-79146e.netlify.app
-🛠️ Tech Used: React, Node.js, Express.js, MongoDB, Tailwind CSS
-
----
-
-## 📊 GitHub Stats
-![Provash's GitHub stats](https://github-readme-stats.vercel.app/api?username=provash10&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=provash10&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=provash10&theme=radical)
+## 📊 GitHub Statistics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=provash10&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=provash10&layout=compact&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=provash10&theme=radical" />
+</p>
 
 ---
 
 ## ☕ Support Me
-If you like my work, you can support me here:
+If you like my work, consider supporting me:
 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/provash10)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/provash10)
