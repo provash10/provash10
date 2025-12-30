@@ -4,8 +4,8 @@
 <h3 align="center">Frontend & Full Stack Web Developer</h3>
 
 <p align="center">
-📍 Bangladesh &nbsp; | &nbsp;
-📧 provash.dev@email.com
+📍 Dhaka, Bangladesh &nbsp; | &nbsp;
+📧 provash20cb@gmail.com
 </p>
 
 <p align="center">
