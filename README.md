@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Hi%20I'm%20Provash!%20Full%20Stack%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">MERN & PHP/Laravel Full Stack Developer</h2>
+<h2 align="center">MERN || Full Stack Developer</h2>
 
 <p align="center">
   Dhaka, Bangladesh | <strong>provash20cb@gmail.com</strong><br>
