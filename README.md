@@ -1,9 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Hi%20I'm%20Provash!%20Full%20Stack%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Hi%20I'm%20Provash!%20Full%20Stack%20Web%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">MERN || Full Stack Developer</h2>
+<h2 align="center">Full Stack Developer || MERN </h2>
+<p align="center"><em>Passionate about learning, developing, and delivering excellence</em></p>
 
 <p align="center">
   Dhaka, Bangladesh | <strong>provash20cb@gmail.com</strong><br>
@@ -13,7 +14,7 @@
 ---
 
 ## About Me
-I am **Provash**, a passionate Full Stack Web Developer with expertise in **MERN Stack** and **PHP/Laravel**.  
+I am **Provash**, a passionate Full Stack Web Developer with expertise in **MERN Stack**.  
 I enjoy building real-world full-stack applications, writing clean code, and continuously learning new technologies.  
 My goal is to create fast, responsive, and user-friendly web applications.
 
@@ -21,7 +22,7 @@ My goal is to create fast, responsive, and user-friendly web applications.
 
 ## Skills
 
-**Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS  
+**Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS, Bootstrap
 
 **Backend:** Node.js, Express.js, PHP, Laravel  
 
