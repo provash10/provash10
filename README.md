@@ -1,5 +1,5 @@
 <!-- Banner -->
-Hi I'm **Provash!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Hi%20I'm%20Provash!%20Full%20Stack%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
 ### MERN & PHP/Laravel Full Stack Developer
 
@@ -33,19 +33,7 @@ My goal is to create fast, responsive, and user-friendly web applications.
 **MERN Stack Web Application**  
 Live Demo: https://vermillion-shortbread-79146e.netlify.app  
 Tech Stack: React, Node.js, Express.js, MongoDB, Tailwind CSS  
-
-**Laravel Web Application**  
-Live Demo: [Example Laravel Project](#)  
-Tech Stack: PHP(OOP), Laravel, MySQL, Bootstrap  
-
----
-
-## GitHub Statistics
-GitHub Stats: [provash10](https://github.com/provash10)  
-
-Top Languages: Based on repositories  
-
-Streak Stats: Current GitHub activity streak  
+ 
 
 ---
 
