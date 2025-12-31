@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">Full Stack Developer || MERN </h2>
-<p align="center"><em>Passionate about learning, developing, and delivering excellence</em></p>
+<p align="center"><em>"Passionate about learning, developing, and delivering excellence"</em></p>
 
 <p align="center">
   Dhaka, Bangladesh | <strong>provash20cb@gmail.com</strong><br>
