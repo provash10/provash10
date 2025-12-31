@@ -1,11 +1,14 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Hi%20I'm%20Provash!%20Full%20Stack%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Hi%20I'm%20Provash!%20Full%20Stack%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-### MERN & PHP/Laravel Full Stack Developer
+<h2 align="center">MERN & PHP/Laravel Full Stack Developer</h2>
 
-Dhaka, Bangladesh | provash20cb@gmail.com  
-
-GitHub: [provash10](https://github.com/provash10) • LinkedIn: [provashchandrabarman](https://www.linkedin.com/in/provashchandrabarman/)
+<p align="center">
+  Dhaka, Bangladesh | <strong>provash20cb@gmail.com</strong><br>
+  GitHub: <a href="https://github.com/provash10">provash10</a> • LinkedIn: <a href="https://www.linkedin.com/in/provashchandrabarman/">provashchandrabarman</a>
+</p>
 
 ---
 
@@ -33,7 +36,6 @@ My goal is to create fast, responsive, and user-friendly web applications.
 **MERN Stack Web Application**  
 Live Demo: https://vermillion-shortbread-79146e.netlify.app  
 Tech Stack: React, Node.js, Express.js, MongoDB, Tailwind CSS  
- 
 
 ---
 
